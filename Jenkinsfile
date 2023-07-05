@@ -8,7 +8,7 @@ pipeline {
                
            }
        }
-       stage('Reading branch wise info')
+       stage('Reading branch wise information:wq!')
        {
        when
        {
