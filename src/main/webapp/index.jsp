@@ -8,7 +8,7 @@ String version=resource.getString("version");%>
 <body>
 <h1> CICD pipeline concept 02/07/2023 </h1>
 <h2> Completed!! </h2>
-<h3> Change added </h3>
+<h3> Change added 10/07/2023 </h3>
 
  </body>
 </html>
