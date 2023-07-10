@@ -16,7 +16,7 @@ pipeline {
        }
        steps
        {
-       echo " It is only for Feature branch"
+       echo " It is only for Feature Branch"
        }
        }
 
